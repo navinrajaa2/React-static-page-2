@@ -1,18 +1,133 @@
-# React + Vite
+# React Static Page 2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive static web page built with **React.js**, showcasing modern frontend development practices with clean UI components and smooth layout design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+[View Live]([https://storied-hotteok-0f442f.netlify.app/])
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 📌 Features
 
-## Expanding the ESLint configuration
+- ⚛️ Built with React.js
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI
+- ⚡ Fast and lightweight static page
+- 🧩 Reusable component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|---|---|
+| React.js | Frontend UI library |
+| HTML5 | Markup structure |
+| CSS3 | Styling and layout |
+| JavaScript (ES6+) | Logic and interactivity |
+
+---
+
+## 📂 Project Structure
+
+```
+React-static-page-2/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v14 or above)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/navinrajaa2/React-static-page-2.git
+```
+
+2. **Navigate to the project directory**
+
+```bash
+cd React-static-page-2
+```
+
+3. **Install dependencies**
+
+```bash
+npm install
+```
+
+4. **Start the development server**
+
+```bash
+npm start
+```
+
+The app will run at `http://localhost:3000`
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+This creates an optimized production build in the `build/` folder.
+
+---
+
+## 🚢 Deployment
+
+This project is deployed using **GitHub Pages**.
+
+To deploy:
+
+```bash
+npm run deploy
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+**Navin Raja**
+- GitHub: [@navinrajaa2](https://github.com/navinrajaa2)
