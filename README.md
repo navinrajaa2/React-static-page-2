@@ -6,7 +6,7 @@ A responsive static web page built with **React.js**, showcasing modern frontend
 
 ## 🚀 Live Demo
 
-[View Live]([https://storied-hotteok-0f442f.netlify.app/])
+<a href="https://storied-hotteok-0f442f.netlify.app/">Click Here<a>
 
 ---
 
